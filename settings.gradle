@@ -1,0 +1,4 @@
+rootProject.name = 'echo-server-tutorial'
+include 'echo-server'
+include 'echo-client'
+
